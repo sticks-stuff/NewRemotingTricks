@@ -1,3 +1,5 @@
+POC from https://gist.github.com/VAMorales/3888941d6e5efdd4b2e673e999f68ca2
+
 # Teaching the Old .NET Remoting New Exploitation Tricks
 
 This repository provides further details and resources on the [CODE WHITE blog post of the same name *Teaching the Old .NET Remoting New Exploitation Tricks*](https://code-white.com/blog/teaching-the-old-net-remoting-new-exploitation-tricks/):
